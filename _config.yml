@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This podcast was created in 2019 by Quinten Johnson, Spencer Raymond, & Elijah Hampton
 author: Quinten Johnson
 email: AllBarknobite@gmail.com
-avatar: assets/images/avatar.jpg
+avatar: assets/images/allbarkavi.jpg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
