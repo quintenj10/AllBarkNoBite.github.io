@@ -44,12 +44,12 @@ url: "" # the base hostname & protocol for your site
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
-twitter_url: "abnbpodcast"
+twitter_url: https://twitter.com/abnbpodcast
 facebook_url:
 googleplus_url:
-instagram_url: "allbarknobitepod"
+instagram_url: https://www.instagram.com/allbarknobitepod/
 linkedin_url:
-github_url: "quintenj10"
+github_url:
 pinterest_url:
 slack_url:
 dribbble_url:
