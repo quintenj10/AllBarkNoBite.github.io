@@ -30,7 +30,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: All Bark No Bite
+title: "All Bark No Bite"
 subtitle: The official podcast website!
 description: >- # this means to ignore newlines until "baseurl:"
   This podcast was created in 2019 by Quinten Johnson, Spencer Raymond, & Elijah Hampton
